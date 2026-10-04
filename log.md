@@ -1,3 +1,3 @@
-WIB: Sunday, 04 October 2026 16.18.35 UTC
-WITA: Sunday, 04 October 2026 17.18.35 UTC
-WIT: Sunday, 04 October 2026 18.18.35 UTC
+WIB: Sunday, 04 October 2026 22.06.11 UTC
+WITA: Sunday, 04 October 2026 23.06.11 UTC
+WIT: Monday, 05 October 2026 00.06.11 UTC
