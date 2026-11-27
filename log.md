@@ -1,3 +1,3 @@
-WIB: Friday, 27 November 2026 13.30.01 UTC
-WITA: Friday, 27 November 2026 14.30.02 UTC
-WIT: Friday, 27 November 2026 15.30.02 UTC
+WIB: Saturday, 28 November 2026 00.10.45 UTC
+WITA: Saturday, 28 November 2026 01.10.45 UTC
+WIT: Saturday, 28 November 2026 02.10.45 UTC
